@@ -85,7 +85,7 @@ class _MyAppState extends State<MyApp> {
                         width: ScreenUtil.getInstance().setWidth(110),
                         height: ScreenUtil.getInstance().setHeight(110),
                       ),
-                      Text("TEAM LASA",
+                      Text("TEAM LASIIIIIH",
                           style: TextStyle(
                               fontFamily: "Poppins-Bold",
                               fontSize: ScreenUtil.getInstance().setSp(46),
